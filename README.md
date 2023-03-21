@@ -11,4 +11,6 @@ It will be released in the coming weeks.
 IMPORTANT:
 This is mainly a learning project. 
 
-Translated with www.DeepL.com/Translator (free version)
+YOLOv8:
+
+https://github.com/ultralytics/ultralytics
