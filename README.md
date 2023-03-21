@@ -6,3 +6,6 @@ It will be based on the YOLOv8s model, so it can run on pretty much all reasonab
 
 
 It will be released in the coming weeks.
+
+
+@software{Jocher_YOLO_by_Ultralytics_2023,author = {Jocher, Glenn and Chaurasia, Ayush and Qiu, Jing},license = {GPL-3.0},month = {1},title = {{YOLO by Ultralytics}},url = {https://github.com/ultralytics/ultralytics},version = {8.0.0},year = {2023}}
