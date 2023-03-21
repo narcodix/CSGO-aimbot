@@ -1,10 +1,8 @@
-# CSGO-aimbot
+Aimbot for CSGO, based on the YOLOv8 machine learning model.
 
-Aimbot for CSGO, based on the YOLOv8 Machine Learning Model.
+As far as I have seen, it is the first Aimbot to use YOLOv8. My goal is to speed up the recognition compared to the YOLOv5 based Aimbots that can already be found on GitHub etc.
 
-As far as i have seen, it is the first Aimbot which uses YOLOv8, my goal is to make the detection faster compared to the Aimbots based on YOLOv5 which you can already find on GitHub etc.
+It will be based on the YOLOv8s model, so it can run on pretty much all reasonably modern GPUs, since it doesn't require much vram. 
 
 
-
-Will be published in the upcoming weeks.
-
+It will be released in the coming weeks.
